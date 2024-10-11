@@ -22,12 +22,8 @@ Soy un estudiante apasionado del lenguaje de programación Go (Golang). Estoy en
 
 
 # 🚀 Proyectos Personales (Práctica)
-- [**API RESTful en Go**](https://github.com/miguelportillo2475/practicas/blob/main/golang-crud/): Proyecto 100% Golang sin Frameworks.
-- [**Calculadora en consola**](https://github.com/miguelportillo2475/practicas/blob/main/Calculadora/): Calculadora simple en la terminal.
 - [**edls - Fork de ls**](https://github.com/miguelportillo2475/edgo/tree/main/edls): Proyecto final del curso de go desde cero.
 
-- [**Determinar números primos**](https://github.com/miguelportillo2475/practicas/tree/main/Determinar%20numeros%20primos): Determinar si un numero es primo o no.
-- [**Leer entrada de datos por consola**](https://github.com/miguelportillo2475/practicas/tree/main/Leer%20entrada%20de%20usuario): Lee la entrada de datos(Un nombre en este caso) por consola.
 
 ## 📫 Contacto
 
