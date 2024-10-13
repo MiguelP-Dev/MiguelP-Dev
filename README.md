@@ -1,6 +1,6 @@
 # ¡Hola! Soy Miguel Portillo 👋
 
-Soy un estudiante apasionado del lenguaje de programación Go (Golang). Estoy en constante aprendizaje especialmente en el are del Back-End, aunque me gusta la tecnología en general y suelo leer e investigar sobre muchos otros temas como, las criptos, la ciberseguridad y todo lo relacionado al mundo opensource. Aquí encontrarás información sobre mis cursos, habilidades y talleres.
+Soy un estudiante apasionado del lenguaje de programación Go (Golang). Estoy en constante aprendizaje especialmente en el area del BackEnd, aunque me gusta la tecnología en general y suelo leer e investigar sobre muchos otros temas como, las criptos, la ciberseguridad y todo lo relacionado al mundo opensource. Aquí encontrarás información sobre mis cursos, habilidades y talleres.
 
 ## 📚 Cursos
 - **Go desde cero 2023** - EdTeam
