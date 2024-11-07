@@ -19,8 +19,8 @@ Soy un estudiante apasionado del lenguaje de programación Go (Golang). Estoy en
 - **Taller de Test Driven Development** - EdTeam
 
 ## ![alt text](images/image.png) Proyectos de Prácticas
-- [**edls - Copia simple de ls**](https://github.com/miguelportillo2475/edgo/tree/main/edls): Proyecto final del curso de go desde cero.
-- [**Crud api - Proyecto**](https://github.com/miguelportillo2475/GolangPureCrudApi): CRUD API hecho en golang puro
+- [**edls - Copia simple de ls**](https://github.com/MiguelP-Dev/edgo/tree/main/edls): Proyecto final del curso de go desde cero.
+- [**Crud api - Proyecto**](https://github.com/MiguelP-Dev/GolangPureCrudApi): CRUD API hecho en golang puro
 
 ## 📫 Contacto
 
