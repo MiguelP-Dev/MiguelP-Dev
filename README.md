@@ -1,27 +1,84 @@
-# ¡Hola! Soy Miguel Portillo 👋
+# ¡Hola! Soy Miguel Portillo 👨💻
 
-Soy un estudiante apasionado del lenguaje de programación Go (Golang). Estoy en constante aprendizaje especialmente en el area del Backend, me gusta la tecnología en general y suelo leer e investigar sobre muchos otros temas como, la ciberseguridad y todo lo relacionado al mundo opensource. Aquí encontrarás información sobre mis cursos, habilidades y talleres.
+[![GitHub](https://img.shields.io/badge/GitHub-MiguelP--Dev-181717?style=flat&logo=github)](https://github.com/MiguelP-Dev)
 
-## 📚 Cursos
-- **Go desde cero 2023** - EdTeam
-- **Introducción a la Programación Orientada a Objetos** - EdTeam
-- **Introducción a API REST** - EdTeam
-- **La ruta del desarrollador web** - EdTeam
-- **VIM desde cero** - EdTeam
-- **Git y Github desde cero para PRINCIPIANTES** - YouTube - MoureDev
+Apasionado desarrollador Backend especializado en Go (Golang) 🚀. Actualmente enfocado en el dominio de arquitecturas escalables, patrones de diseño y mejores prácticas de desarrollo. Me encanta crear soluciones eficientes y aprender nuevas tecnologías en el mundo open source.
 
-## 🛠️ Habilidades
-- **Lenguajes de programación**: Go.
-- **Herramientas**: Git.
-- **Metodologías**: Test Driven Development.
+**💡 Actualmente aprendiendo:**
 
-## 🏫 Talleres
-- **Taller de Test Driven Development** - EdTeam
+- Patrones de diseño en Go ([Recurso](https://www.alldevstack.com/es/golang-design-patterns/intro.html))
+- Integración continua CI/CD
+- Profundización en SQL/MySQL
+- Mejorando mi inglés técnico
 
-## ![alt text](images/image.png) Proyectos de Prácticas
-- [**edls - Copia simple de ls**](https://github.com/MiguelP-Dev/edgo/tree/main/edls): Proyecto final del curso de go desde cero.
-- [**Crud api - Proyecto**](https://github.com/MiguelP-Dev/GolangPureCrudApi): CRUD API hecho en golang puro
+## 🛠 Stack Tecnológico
 
-## 📫 Contacto
+**Backend:**
 
-- [Correo Electrónico](miguelportillo2475@gmail.com)
+- **Lenguajes:** Golang
+- **Bases de datos:** MySQL
+- **APIs:** RESTful
+- **Patrones:** Singleton, Factory, Builder
+
+**Herramientas:**
+
+- **Control de versiones:** Git/GitHub
+- **Entorno:** Terminal Linux, Vim
+- **Metodologías:** TDD, SOLID
+
+**En aprendizaje:** Docker, Kubernetes, AWS
+
+## 🚀 Proyectos Destacados
+
+### [CRUD API Puro](https://github.com/MiguelP-Dev/GolangPureCrudApi)
+
+_Golang, HTTP, JSON_  
+API RESTful que implementa:
+
+- Operaciones CRUD completas para usuarios
+- Respuestas JSON estandarizadas
+- Manejo concurrente con mutex
+- Estructura de datos en memoria
+- Control de errores HTTP
+
+## 📚 Formación Continua
+
+**Cursos Relevantes:**
+
+- 🏅 Patrones de Diseño en Go - AlldevStack (En progreso)
+- 🔍 Test Driven Development - EdTeam
+- 🚀 API REST Profesionales - EdTeam
+- 🐧 Linux Terminal Mastery - Autodidacta
+
+**Retos Diarios:**
+
+- Resolución de problemas en [Retos MoureDev](https://github.com/mouredev/roadmap-retos-programacion)
+- Desarrollo de 1 proyecto personal por mes
+
+## 📈 Metas 2025
+
+- Dominio de arquitecturas Hexagonales
+- Implementar 3 proyectos con microservicios
+- Alcanzar nivel de inglés B2+
+- Dominio de frameworks Go:
+  - Fiber (En proceso)
+  - Watermill
+  - Iris
+  - Martini
+  - Echo
+  - Gorilla
+  - Gin
+  - Revel
+- Desarrollo Full Stack:
+  - JavaScript/TypeScript
+  - Angular
+  - SQL/PostgreSQL
+  - JSON APIs
+
+## 📬 Contacto
+
+¿Quieres colaborar en algún proyecto interesante? ¡Hablemos!
+
+- 📧 [miguelportillo2475@gmail.com](mailto:miguelportillo2475@gmail.com)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MiguelP-Dev&theme=dark)](https://git.io/streak-stats)
