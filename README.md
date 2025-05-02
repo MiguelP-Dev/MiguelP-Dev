@@ -1,6 +1,6 @@
-# ¡Hola! Soy Miguel Portillo 👨💻
+# ¡Hola! Soy Miguel Portillo 💻
 
-[![GitHub](https://img.shields.io/badge/GitHub-MiguelP--Dev-181717?style=flat&logo=github)](https://github.com/MiguelP-Dev)
+[![GitHub](https://img.shields.io/badge/GitHub-MiguelP--Dev-green?style=plastic&logo=github)](https://github.com/MiguelP-Dev)
 
 Apasionado desarrollador Backend especializado en Go (Golang) 🚀. Actualmente enfocado en el dominio de arquitecturas escalables, patrones de diseño y mejores prácticas de desarrollo. Me encanta crear soluciones eficientes y aprender nuevas tecnologías en el mundo open source.
 
@@ -9,7 +9,7 @@ Apasionado desarrollador Backend especializado en Go (Golang) 🚀. Actualmente 
 - Patrones de diseño en Go ([Recurso](https://www.alldevstack.com/es/golang-design-patterns/intro.html))
 - Integración continua CI/CD
 - Profundización en SQL/MySQL
-- Mejorando mi inglés técnico
+- Docker, Podman, Kubernetes
 
 ## 🛠 Stack Tecnológico
 
@@ -26,11 +26,26 @@ Apasionado desarrollador Backend especializado en Go (Golang) 🚀. Actualmente 
 - **Entorno:** Terminal Linux, Vim
 - **Metodologías:** TDD, SOLID
 
-**En aprendizaje:** Docker, Kubernetes, AWS
-
 ## 🚀 Proyectos Destacados
 
-### [CRUD API Puro](https://github.com/MiguelP-Dev/GolangPureCrudApi)
+## 📚 DevSphere - Knowledge Hub
+
+[![GitHub Pages](https://img.shields.io/badge/🌐_Live_Site-miguelp--dev.github.io-blue?logo=github)](https://miguelp-dev.github.io)
+[![Jekyll](https://img.shields.io/badge/🛠️-Jekyll-red)](https://jekyllrb.com)
+[![License](https://img.shields.io/badge/📜-MIT-green)](https://opensource.org/licenses/MIT)
+
+Repositorio técnico auto-gestionado que funciona como:
+
+- 📦 Biblioteca de paquetes Go
+- 💡 Banco de ejemplos prácticos
+- 🧠 Wiki personal con tecnologías
+- 🗂️ Hojas de referencia rápida
+
+**Stack**: Jekyll | GitHub Pages | SASS | Mermaid.js
+
+## 📦 CRUD API - Código `100%` Go
+
+[![CRUD API](https://img.shields.io/badge/CRUD_API-miguelp--dev.github.io-purple?logo=go)](https://github.com/MiguelP-Dev/GolangPureCrudApi)
 
 _Golang, HTTP, JSON_  
 API RESTful que implementa:
@@ -41,11 +56,13 @@ API RESTful que implementa:
 - Estructura de datos en memoria
 - Control de errores HTTP
 
+**Stack**: Golang
+
 ## 📚 Formación Continua
 
 **Cursos Relevantes:**
 
-- 🏅 Patrones de Diseño en Go - AlldevStack (En progreso)
+- 🏅 Patrones de Diseño en Go - AlldevStack
 - 🔍 Test Driven Development - EdTeam
 - 🚀 API REST Profesionales - EdTeam
 - 🐧 Linux Terminal Mastery - Autodidacta
@@ -53,7 +70,6 @@ API RESTful que implementa:
 **Retos Diarios:**
 
 - Resolución de problemas en [Retos MoureDev](https://github.com/mouredev/roadmap-retos-programacion)
-- Desarrollo de 1 proyecto personal por mes
 
 ## 📈 Metas 2025
 
@@ -63,13 +79,11 @@ API RESTful que implementa:
 - Dominio de frameworks Go:
   - Fiber (En proceso)
   - Watermill
-  - Iris
-  - Martini
   - Echo
   - Gorilla
   - Gin
-  - Revel
 - Desarrollo Full Stack:
+  - HTML/CSS
   - JavaScript/TypeScript
   - Angular
   - SQL/PostgreSQL
@@ -81,4 +95,4 @@ API RESTful que implementa:
 
 - 📧 [miguelportillo2475@gmail.com](mailto:miguelportillo2475@gmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MiguelP-Dev&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=MiguelP-Dev&theme=dark)](https://git.io/streak-stats) -->
