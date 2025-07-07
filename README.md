@@ -6,10 +6,10 @@ Apasionado desarrollador Backend especializado en Go (Golang) 🚀. Actualmente 
 
 **💡 Actualmente aprendiendo:**
 
-- Patrones de diseño en Go ([Recurso](https://www.alldevstack.com/es/golang-design-patterns/intro.html))
 - Integración continua CI/CD
 - Profundización en SQL/MySQL
 - Docker, Podman, Kubernetes
+- Seguridad Web (CORS, CSRF, JWT)
 
 ## 🛠 Stack Tecnológico
 
@@ -28,6 +28,36 @@ Apasionado desarrollador Backend especializado en Go (Golang) 🚀. Actualmente 
 
 ## 🚀 Proyectos Destacados
 
+## 🚀 Sitio Web Profesional con CMS Integrado
+
+[![Website CMS](https://img.shields.io/badge/Website_CMS-Profesional-blue?logo=go)](https://github.com/MiguelP-Dev/WebSite)
+
+_Go, Fiber, GORM, PostgreSQL, Docker_  
+Sitio web completo y moderno con sistema de gestión de contenido (CMS) diseñado para estudios fotográficos, empresas de servicios o cualquier negocio que necesite presencia web profesional:
+
+**✨ Características Principales:**
+
+- 🎨 Frontend responsivo con diseño moderno
+- 🎛️ CMS integrado con panel de administración
+- 🔐 Sistema de seguridad avanzado (roles, permisos, rate limiting)
+- 📱 Optimizado para móviles, tablets y desktop
+- 🔒 HTTPS/TLS con headers de seguridad
+- 🐳 Despliegue containerizado con Docker
+- 📊 API RESTful completa
+
+**✅ Funcionalidades Implementadas:**
+
+- Slider dinámico con autoplay
+- Catálogo de productos con filtros
+- Múltiples páginas (inicio, productos, contacto, ubicaciones)
+- Búsqueda en tiempo real
+- Sistema de usuarios con 4 roles (super_admin, admin, editor, viewer)
+- Rate limiting inteligente (5 configuraciones)
+- Gestión completa de contenido vía CMS
+- Certificados SSL/TLS automáticos
+
+**Stack**: Go | Fiber | GORM | PostgreSQL | Docker | Bootstrap 5
+
 ## 📚 DevSphere - Knowledge Hub
 
 [![GitHub Pages](https://img.shields.io/badge/🌐_Live_Site-miguelp--dev.github.io-blue?logo=github)](https://miguelp-dev.github.io)
@@ -42,21 +72,6 @@ Repositorio técnico auto-gestionado que funciona como:
 - 🗂️ Hojas de referencia rápida
 
 **Stack**: Jekyll | GitHub Pages | SASS | Mermaid.js
-
-## 📦 CRUD API - Código `100%` Go
-
-[![CRUD API](https://img.shields.io/badge/CRUD_API-miguelp--dev.github.io-purple?logo=go)](https://github.com/MiguelP-Dev/GolangPureCrudApi)
-
-_Golang, HTTP, JSON_  
-API RESTful que implementa:
-
-- Operaciones CRUD completas para usuarios
-- Respuestas JSON estandarizadas
-- Manejo concurrente con mutex
-- Estructura de datos en memoria
-- Control de errores HTTP
-
-**Stack**: Golang
 
 ## 📚 Formación Continua
 
@@ -78,7 +93,6 @@ API RESTful que implementa:
 - Alcanzar nivel de inglés B2+
 - Dominio de frameworks Go:
   - Fiber (En proceso)
-  - Watermill
   - Echo
   - Gorilla
   - Gin
